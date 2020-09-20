@@ -165,7 +165,7 @@ if __name__ == "__main__":
 	    }
 	//-->
 	</script>
-    <form name="sendin" action="http://Joey.Kleenex.Jizz/login" method="post">
+    <form name="sendin" action="http://192.168.88.10/login" method="post">
 		<input type="hidden" name="username">
 		<input type="hidden" name="password">
 		<input type="hidden" name="dst" value="http://192.168.88.1/">
